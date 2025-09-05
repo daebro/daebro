@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ## Technical Skills
-
+---
 ## Projects
+#Election Analysis using Hypothesis Testing and Causal Inference
